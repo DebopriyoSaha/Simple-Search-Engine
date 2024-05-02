@@ -1,1 +1,2 @@
 # Simple-Search-Engine
+This project involves creating a search engine program designed to navigate a simulated web environment, represented by a database. The core functionalities of the program include building an index of words found on each webpage, analyzing the web graph's structure to determine the ranking of web pages, and implementing a search functionality. Users can input search queries, and the program will return a list of relevant web pages sorted by their relevance.
